@@ -27,7 +27,8 @@
 - اگر نیاز به تغییر ترجمه دارید، دکمه "بازترجمه" را بزنید.
   
 
-![image](https://github.com/user-attachments/assets/1a2b303d-57bc-40cb-8a36-92d8d7ee182d)
+![image](https://github.com/user-attachments/assets/627cc0b4-d4e5-48ff-99ac-98b3e0294381)
+
 
 
 
