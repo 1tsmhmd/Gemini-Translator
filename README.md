@@ -25,6 +25,13 @@
 - زیر هر توییت، دکمه‌ای برای ترجمه ظاهر می‌شود.
 - با کلیک بر روی دکمه ترجمه، متن توییت به فارسی ترجمه می‌شود.
 - اگر نیاز به تغییر ترجمه دارید، دکمه "بازترجمه" را بزنید.
+
+  ### پرامپت
+- نکته بسیار مهم در استفاده ازین اکستنشن استفاده از پرامپت (دستور ترجمه ) مناسب هست , به طوری که اگر دستور مناسبی استفاده نکنید خروجی استاندارد نخواهد بود , پیشنهاد من به شما استفاده از پرامپت زیر است.
+```
+<pre style="white-space: pre-wrap; word-wrap: break-word;">
+You are a professional news translator converting any language into natural, native-sounding Persian. Accurately translate and rephrase the text using Persian idioms, structures, and literary flair. Translate only the content within < > brackets without adding any extra phrases or content beyond the original text. Deliver a single Persian output with no explanations, alternatives, or suggestions: <TEXT>
+```
   
 
 ![image](https://github.com/user-attachments/assets/627cc0b4-d4e5-48ff-99ac-98b3e0294381)
