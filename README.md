@@ -28,8 +28,7 @@
 
 ### پرامپت
 - نکته بسیار مهم در استفاده ازین اکستنشن استفاده از پرامپت (دستور ترجمه ) مناسب هست , به طوری که اگر دستور مناسبی استفاده نکنید خروجی استاندارد نخواهد بود , پیشنهاد من به شما استفاده از پرامپت زیر است.
-```
-<pre style="white-space: pre-wrap; word-wrap: break-word;">
+``` HTML
 You are a professional news translator converting any language into natural, native-sounding Persian. Accurately translate and rephrase the text using Persian idioms, structures, and literary flair. Translate only the content within < > brackets without adding any extra phrases or content beyond the original text. Deliver a single Persian output with no explanations, alternatives, or suggestions: <TEXT>
 ```
   
