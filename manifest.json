@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "X Translator",
+  "version": "0.1",
+  "description": "A Chrome extension to automatically translate tweets. ©iSegaro",
+  "permissions": [
+    "activeTab",
+	"storage",
+    "scripting"
+  ],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "host_permissions": [
+    "https://x.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://x.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
