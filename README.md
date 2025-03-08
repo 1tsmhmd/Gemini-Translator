@@ -9,6 +9,11 @@
 - **تنظیمات انعطاف‌پذیر**: کاربران می‌توانند API Key خود را در بخش تنظیمات اضافه کنند و زبان‌های مورد نظر خود را انتخاب کنند.
 - **دستور ترجمه**: کاربران می‌توانند پرامپت مورد نظر خود را برای ترجمه وارد کنند تا مدل و لحن ترجمه مطابق با نیاز آن‌ها باشد.
 
+## 🖼️ Screenshot
+![gemini-translat](https://i.imgur.com/DNM5YZW.jpeg)
+![gemini-tranlsate](https://i.imgur.com/h3Lye0C.jpeg)
+
+
 ### نحوه نصب
 1. اکستنشن را از این صفحه دانلود کنید.
 2. فایل دانلود شده را در یک فولدر قرار دهید.
@@ -28,7 +33,7 @@
 ### پرامپت
 - نکته بسیار مهم در استفاده ازین اکستنشن استفاده از پرامپت (دستور ترجمه ) مناسب هست , به طوری که اگر دستور مناسبی استفاده نکنید خروجی استاندارد نخواهد بود , پیشنهاد من به شما استفاده از پرامپت زیر است.
 
-### 🙏 حمایت از پروژه
+### 🙏 حمایت از پروژه @ISegaro
 اگر این پروژه برای شما مفید بوده است و می‌خواهید از آن حمایت کنید، دو گزینه برای شما وجود دارد:
 
 حمایت مالی :
@@ -58,34 +63,3 @@ You are a professional news translator tasked with converting any language into 
 اگر به بهبود این پروژه علاقه‌مند هستید، می‌توانید از طریق Pull Request یا Issue مشارکت کنید.
 
 ---
-
-## English
-
-### Project Description
-This browser extension is designed for Twitter users to translate tweets in foreign languages into Persian. The tool uses the Gemini API to provide accurate and customizable translations.
-
-### Features
-- **Automatic Translation**: Click the translate button to translate the tweet text into Persian.
-- **Re-translate**: Users can modify the translation using the "Re-translate" button.
-- **Flexible Settings**: Users can add their API Key in the settings section and select their desired languages.
-- **Translation Prompt**: Users can enter a custom prompt for translation to adjust the model and tone of the translation according to their needs.
-
-### Installation
-1. Download the extension from this page.
-2. Add the downloaded file to your browser.
-3. Go to the extension settings, obtain your API Key from Gemini, and enter it in this section.
-4. Select the languages you want to translate or enable the "Auto-detect" option.
-5. In the "Translation Prompt" section, enter your desired prompt.
-
-### How to Use
-- After installing the extension, go to Twitter.
-- A translation button will appear below each tweet.
-- Click the translate button to translate the tweet text into Persian.
-- If you need to modify the translation, click the "Re-translate" button.
-
-### Contribution
-If you are interested in improving this project, you can contribute via Pull Request or Issue. 
-
---- 
-
-Feel free to reach out if you have any questions or need further assistance!
